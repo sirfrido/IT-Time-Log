@@ -1,0 +1,5 @@
+{
+  "name": "HAMPA Studio IT Task Logger",
+  "description": "A daily time and task tracking application for the HAMPA Studio IT team. It allows users to categorize tasks, add new categories on the fly, log time spent, and export the daily log to a CSV file for easy import into Google Sheets.",
+  "requestFramePermissions": []
+}
